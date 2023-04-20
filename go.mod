@@ -1,4 +1,4 @@
-module meli
+module github.com/caioluciofc/gomeli
 
 go 1.16
 
